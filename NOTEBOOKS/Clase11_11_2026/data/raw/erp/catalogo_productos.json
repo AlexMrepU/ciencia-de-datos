@@ -1,0 +1,723 @@
+{
+  "metadata": {
+    "sistema": "ERP TecnoAndes",
+    "modulo": "catalogo",
+    "version_esquema": "2.1",
+    "fecha_exportacion": "2026-07-01T08:15:00",
+    "moneda": "USD",
+    "total_categorias": 6
+  },
+  "data": {
+    "categorias": [
+      {
+        "id_categoria": 1,
+        "nombre_categoria": "Computación",
+        "total_productos": 10,
+        "productos": [
+          {
+            "sku": "TA-0001",
+            "nombre": "Laptop TP-Link K92",
+            "marca": "TP-Link",
+            "precio_lista": 876.13,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6,
+              "peso_kg": 2.08
+            }
+          },
+          {
+            "sku": "TA-0002",
+            "nombre": "PC de escritorio Sony M80",
+            "marca": "Sony",
+            "precio_lista": 952.37,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 24,
+              "peso_kg": 8.33
+            }
+          },
+          {
+            "sku": "TA-0003",
+            "nombre": "PC de escritorio Samsung M20",
+            "marca": "SAMSUNG",
+            "precio_lista": 843.96,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6,
+              "peso_kg": 6.86
+            }
+          },
+          {
+            "sku": "TA-0004",
+            "nombre": "Laptop Samsung D60",
+            "marca": "Samsung",
+            "precio_lista": 955.73,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 12,
+              "peso_kg": 1.69
+            }
+          },
+          {
+            "sku": "TA-0005",
+            "nombre": "Tablet Kingston K91",
+            "marca": "Kingston",
+            "precio_lista": 479.91,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6,
+              "peso_kg": 0.54
+            }
+          },
+          {
+            "sku": "TA-0006",
+            "nombre": "PC de escritorio Epson C92",
+            "marca": "EPSON",
+            "precio_lista": "872.56",
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 24,
+              "peso_kg": 8.15
+            }
+          },
+          {
+            "sku": "TA-0007",
+            "nombre": "PC de escritorio TP-Link G21",
+            "marca": "TP-Link",
+            "precio_lista": 918.13,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 12,
+              "peso_kg": 8.67
+            }
+          },
+          {
+            "sku": "TA-0008",
+            "nombre": "Laptop Kingston M72",
+            "marca": "Kingston",
+            "precio_lista": 877.86,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 12,
+              "peso_kg": 2.1
+            }
+          },
+          {
+            "sku": "TA-0009",
+            "nombre": "Tablet Xiaomi H75",
+            "marca": "XIAOMI",
+            "precio_lista": 460.82,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 24,
+              "peso_kg": 0.56
+            }
+          },
+          {
+            "sku": "TA-0010",
+            "nombre": "Laptop Lenovo K95",
+            "marca": "Lenovo",
+            "precio_lista": 1083.23,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6,
+              "peso_kg": 1.96
+            }
+          }
+        ]
+      },
+      {
+        "id_categoria": 2,
+        "nombre_categoria": "Periféricos",
+        "total_productos": 11,
+        "productos": [
+          {
+            "sku": "TA-0011",
+            "nombre": "Mouse Samsung B90",
+            "marca": "Samsung",
+            "precio_lista": 41.18,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 24,
+              "peso_kg": 0.1
+            }
+          },
+          {
+            "sku": "TA-0012",
+            "nombre": "Monitor Epson X49",
+            "marca": "Epson",
+            "precio_lista": 278.75,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 24,
+              "peso_kg": 4.7
+            }
+          },
+          {
+            "sku": "TA-0013",
+            "nombre": "Teclado Kingston E44",
+            "marca": "Kingston",
+            "precio_lista": "40.52",
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6,
+              "peso_kg": 0.57
+            }
+          },
+          {
+            "sku": "TA-0014",
+            "nombre": "Monitor Samsung H56",
+            "marca": "Samsung",
+            "precio_lista": 334.82,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6,
+              "peso_kg": 3.8
+            }
+          },
+          {
+            "sku": "TA-0015",
+            "nombre": "Monitor Samsung K94",
+            "marca": "Samsung",
+            "precio_lista": 335.83,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6,
+              "peso_kg": 4.76
+            }
+          },
+          {
+            "sku": "TA-0016",
+            "nombre": "Mouse Samsung K43",
+            "marca": "Samsung",
+            "precio_lista": "34.75",
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 12,
+              "peso_kg": 0.12
+            }
+          },
+          {
+            "sku": "TA-0017",
+            "nombre": "Teclado Samsung X44",
+            "marca": "Samsung",
+            "precio_lista": "66.89",
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 12,
+              "peso_kg": 0.66
+            }
+          },
+          {
+            "sku": "TA-0018",
+            "nombre": "Teclado Dell A21",
+            "marca": "Dell",
+            "precio_lista": 41.37,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6,
+              "peso_kg": 0.69
+            }
+          },
+          {
+            "sku": "TA-0019",
+            "nombre": "Mouse Xiaomi D25",
+            "marca": "Xiaomi",
+            "precio_lista": 38.19,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 24,
+              "peso_kg": 0.08
+            }
+          },
+          {
+            "sku": "TA-0020",
+            "nombre": "Teclado TP-Link F95",
+            "marca": "TP-Link",
+            "precio_lista": 26.05,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 24,
+              "peso_kg": 0.72
+            }
+          },
+          {
+            "sku": "TA-0005",
+            "nombre": "Tablet Kingston K91",
+            "marca": "Kingston",
+            "precio_lista": 479.91,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6,
+              "peso_kg": 0.54
+            }
+          }
+        ]
+      },
+      {
+        "id_categoria": 3,
+        "nombre_categoria": "Almacenamiento",
+        "total_productos": 10,
+        "productos": [
+          {
+            "sku": "TA-0021",
+            "nombre": "Memoria USB Dell H85",
+            "marca": "Dell",
+            "precio_lista": 17.28,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6,
+              "peso_kg": 0.02
+            }
+          },
+          {
+            "sku": "TA-0022",
+            "nombre": "Disco externo Epson X30",
+            "marca": "Epson",
+            "precio_lista": 68.44,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6,
+              "peso_kg": 0.28
+            }
+          },
+          {
+            "sku": "TA-0023",
+            "nombre": "Memoria USB Sony C76",
+            "marca": "Sony",
+            "precio_lista": "15.00",
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6
+            }
+          },
+          {
+            "sku": "TA-0024",
+            "nombre": "Memoria USB HP F92",
+            "marca": "HP",
+            "precio_lista": 8.87,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 12,
+              "peso_kg": 0.02
+            }
+          },
+          {
+            "sku": "TA-0025",
+            "nombre": "Disco SSD Sony X48",
+            "marca": "Sony",
+            "precio_lista": 90.22,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 12,
+              "peso_kg": 0.06
+            }
+          },
+          {
+            "sku": "TA-0026",
+            "nombre": "Memoria USB Xiaomi C29",
+            "marca": "Xiaomi",
+            "precio_lista": 18.52,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 24,
+              "peso_kg": 0.02
+            }
+          },
+          {
+            "sku": "TA-0027",
+            "nombre": "Memoria USB Samsung X18",
+            "marca": "Samsung",
+            "precio_lista": 18.17,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 24,
+              "peso_kg": 0.02
+            }
+          },
+          {
+            "sku": "TA-0028",
+            "nombre": "Disco SSD Lenovo A67",
+            "marca": "lenovo",
+            "precio_lista": 106.58,
+            "estado": "descontinuado",
+            "especificaciones": {
+              "garantia_meses": 24,
+              "peso_kg": 0.05
+            }
+          },
+          {
+            "sku": "TA-0029",
+            "nombre": "Disco SSD Dell D76",
+            "marca": "Dell",
+            "precio_lista": 106.34,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6,
+              "peso_kg": 0.05
+            }
+          },
+          {
+            "sku": "TA-0030",
+            "nombre": "Memoria USB Epson G20",
+            "marca": "Epson",
+            "precio_lista": "15.23",
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 12,
+              "peso_kg": 0.02
+            }
+          }
+        ]
+      },
+      {
+        "id_categoria": 4,
+        "nombre_categoria": "Redes",
+        "total_productos": 10,
+        "productos": [
+          {
+            "sku": "TA-0031",
+            "nombre": "Switch Samsung G46",
+            "marca": "SAMSUNG",
+            "precio_lista": 57.34,
+            "estado": "descontinuado",
+            "especificaciones": {
+              "garantia_meses": 12,
+              "peso_kg": 0.44
+            }
+          },
+          {
+            "sku": "TA-0032",
+            "nombre": "Switch HP K45",
+            "marca": "HP",
+            "precio_lista": 59.27,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6,
+              "peso_kg": 0.57
+            }
+          },
+          {
+            "sku": "TA-0033",
+            "nombre": "Router Samsung G79",
+            "marca": "Samsung",
+            "precio_lista": "89.88",
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 24,
+              "peso_kg": 0.35
+            }
+          },
+          {
+            "sku": "TA-0034",
+            "nombre": "Router TP-Link M78",
+            "marca": "TP-Link",
+            "precio_lista": 82.77,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6,
+              "peso_kg": 0.34
+            }
+          },
+          {
+            "sku": "TA-0035",
+            "nombre": "Repetidor WiFi Xiaomi M47",
+            "marca": "Xiaomi",
+            "precio_lista": 45.58,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 24,
+              "peso_kg": 0.18
+            }
+          },
+          {
+            "sku": "TA-0036",
+            "nombre": "Router Epson G31",
+            "marca": "Epson",
+            "precio_lista": 43.2,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6,
+              "peso_kg": 0.43
+            }
+          },
+          {
+            "sku": "TA-0037",
+            "nombre": "Repetidor WiFi Dell B74",
+            "marca": "Dell",
+            "precio_lista": 42.61,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 12,
+              "peso_kg": 0.18
+            }
+          },
+          {
+            "sku": "TA-0038",
+            "nombre": "Switch TP-Link E18",
+            "marca": "TP-LINK",
+            "precio_lista": 35.49,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6,
+              "peso_kg": 0.48
+            }
+          },
+          {
+            "sku": "TA-0039",
+            "nombre": "Switch Kingston A22",
+            "marca": "Kingston",
+            "precio_lista": 87.75,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6,
+              "peso_kg": 0.4
+            }
+          },
+          {
+            "sku": "TA-0040",
+            "nombre": "Repetidor WiFi Sony F50",
+            "marca": "Sony",
+            "precio_lista": 40.18,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 12,
+              "peso_kg": 0.21
+            }
+          }
+        ]
+      },
+      {
+        "id_categoria": 5,
+        "nombre_categoria": "Audio y video",
+        "total_productos": 10,
+        "productos": [
+          {
+            "sku": "TA-0041",
+            "nombre": "Cámara web Lenovo F87",
+            "marca": "LENOVO",
+            "precio_lista": 90.11,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6,
+              "peso_kg": 0.16
+            }
+          },
+          {
+            "sku": "TA-0042",
+            "nombre": "Cámara web HP K97",
+            "marca": "HP",
+            "precio_lista": 74.62,
+            "estado": "descontinuado",
+            "especificaciones": {
+              "garantia_meses": 12,
+              "peso_kg": 0.14
+            }
+          },
+          {
+            "sku": "TA-0043",
+            "nombre": "Parlante Lenovo G13",
+            "marca": "lenovo",
+            "precio_lista": 116.92,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 12,
+              "peso_kg": 0.97
+            }
+          },
+          {
+            "sku": "TA-0044",
+            "nombre": "Audífonos Epson F84",
+            "marca": "epson",
+            "precio_lista": 95.63,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6,
+              "peso_kg": 0.25
+            }
+          },
+          {
+            "sku": "TA-0045",
+            "nombre": "Cámara web Lenovo B30",
+            "marca": "Lenovo",
+            "precio_lista": 76.91,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 24,
+              "peso_kg": 0.13
+            }
+          },
+          {
+            "sku": "TA-0046",
+            "nombre": "Cámara web TP-Link X48",
+            "marca": "TP-Link",
+            "precio_lista": 68.8,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6,
+              "peso_kg": 0.15
+            }
+          },
+          {
+            "sku": "TA-0047",
+            "nombre": "Parlante Kingston G94",
+            "marca": "Kingston",
+            "precio_lista": "72.15",
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6,
+              "peso_kg": 1.0
+            }
+          },
+          {
+            "sku": "TA-0048",
+            "nombre": "Audífonos Sony G42",
+            "marca": "Sony",
+            "precio_lista": 86.79,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6,
+              "peso_kg": 0.22
+            }
+          },
+          {
+            "sku": "TA-0049",
+            "nombre": "Cámara web Samsung F27",
+            "marca": "Samsung",
+            "precio_lista": 57.16,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 24,
+              "peso_kg": 0.16
+            }
+          },
+          {
+            "sku": "TA-0050",
+            "nombre": "Cámara web Lenovo K43",
+            "marca": "Lenovo",
+            "precio_lista": 72.26,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 12
+            }
+          }
+        ]
+      },
+      {
+        "id_categoria": 6,
+        "nombre_categoria": "Impresión",
+        "total_productos": 10,
+        "productos": [
+          {
+            "sku": "TA-0051",
+            "nombre": "Tinta Lenovo A90",
+            "marca": "Lenovo",
+            "precio_lista": 23.16,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6,
+              "peso_kg": 0.1
+            }
+          },
+          {
+            "sku": "TA-0052",
+            "nombre": "Escáner Sony G56",
+            "marca": "Sony",
+            "precio_lista": 202.07,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6
+            }
+          },
+          {
+            "sku": "TA-0053",
+            "nombre": "Impresora TP-Link X68",
+            "marca": "TP-Link",
+            "precio_lista": 202.6,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 24,
+              "peso_kg": 5.62
+            }
+          },
+          {
+            "sku": "TA-0054",
+            "nombre": "Escáner Xiaomi C90",
+            "marca": "Xiaomi",
+            "precio_lista": 130.59,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 12,
+              "peso_kg": 2.15
+            }
+          },
+          {
+            "sku": "TA-0055",
+            "nombre": "Tinta Sony A91",
+            "marca": "sony",
+            "precio_lista": "24.05",
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6,
+              "peso_kg": 0.08
+            }
+          },
+          {
+            "sku": "TA-0056",
+            "nombre": "Escáner Epson B12",
+            "marca": "Epson",
+            "precio_lista": 107.93,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 24,
+              "peso_kg": 2.22
+            }
+          },
+          {
+            "sku": "TA-0057",
+            "nombre": "Escáner Epson G58",
+            "marca": "Epson",
+            "precio_lista": 164.44,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 24,
+              "peso_kg": 2.96
+            }
+          },
+          {
+            "sku": "TA-0058",
+            "nombre": "Escáner Dell B20",
+            "marca": "Dell",
+            "precio_lista": "215.47",
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6
+            }
+          },
+          {
+            "sku": "TA-0059",
+            "nombre": "Tinta Epson M94",
+            "marca": "EPSON",
+            "precio_lista": "10.83",
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 6,
+              "peso_kg": 0.09
+            }
+          },
+          {
+            "sku": "TA-0060",
+            "nombre": "Escáner Epson G34",
+            "marca": "Epson",
+            "precio_lista": 136.44,
+            "estado": "activo",
+            "especificaciones": {
+              "garantia_meses": 24,
+              "peso_kg": 2.63
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

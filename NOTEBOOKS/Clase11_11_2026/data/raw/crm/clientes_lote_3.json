@@ -1,0 +1,1661 @@
+{
+  "metadata": {
+    "sistema": "CRM TecnoAndes",
+    "lote": 3,
+    "total_lotes": 3,
+    "registros_lote": 110,
+    "fecha_generacion": "2026-07-03T07:00:00"
+  },
+  "registros": [
+    {
+      "id_cliente": "C0216",
+      "nombre_completo": "Mateo Vargas Villacís",
+      "contacto": {
+        "email": "mateo.vargas216@correo.ec",
+        "telefono": "0987014874"
+      },
+      "ubicacion": {
+        "ciudad": "Riobamba",
+        "provincia": "Chimborazo"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2024-06-29",
+      "fecha_actualizacion": "2024-08-16T10:00:00"
+    },
+    {
+      "id_cliente": "C0272",
+      "nombre_completo": "Santiago Lascano Ortiz",
+      "contacto": {
+        "email": "santiago.lascano272@correo.ec",
+        "telefono": "0985172065"
+      },
+      "ubicacion": {
+        "ciudad": "Riobamba",
+        "provincia": "Chimborazo"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-08-21",
+      "fecha_actualizacion": "2024-09-10T10:00:00"
+    },
+    {
+      "id_cliente": "C0271",
+      "nombre_completo": "Jorge Pérez Villacís",
+      "contacto": {
+        "email": "jorge.perez271@correo.ec",
+        "telefono": "0982543224"
+      },
+      "ubicacion": {
+        "ciudad": " píllaro ",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-01-20",
+      "fecha_actualizacion": "2024-07-21T10:00:00"
+    },
+    {
+      "id_cliente": "C0262",
+      "nombre_completo": "Raúl Ortiz Guamán",
+      "contacto": {
+        "email": "raul.ortiz262@correo.ec",
+        "telefono": "0995021260"
+      },
+      "ubicacion": {
+        "ciudad": "Ambato",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-04-28",
+      "fecha_actualizacion": "2024-07-20T10:00:00"
+    },
+    {
+      "id_cliente": "C0264",
+      "nombre_completo": "Elena Villacís Vargas",
+      "contacto": {
+        "email": "elena.villacis264@correo.ec",
+        "telefono": "0993622652"
+      },
+      "ubicacion": {
+        "ciudad": "Latacunga",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2024-12-16",
+      "fecha_actualizacion": "2025-03-10T10:00:00"
+    },
+    {
+      "id_cliente": "C0251",
+      "nombre_completo": "Carmen Vargas Lascano",
+      "contacto": {
+        "email": "carmen.vargas251@correo.ec",
+        "telefono": "0994411918"
+      },
+      "ubicacion": {
+        "ciudad": "Píllaro",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2024-06-27",
+      "fecha_actualizacion": "2024-12-19T10:00:00"
+    },
+    {
+      "id_cliente": "C0235",
+      "nombre_completo": "Elena Cáceres Paredes",
+      "contacto": {
+        "email": "elena.caceres235@correo.ec",
+        "telefono": "0995667716"
+      },
+      "ubicacion": {
+        "ciudad": "Salcedo",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2025-01-04",
+      "fecha_actualizacion": "2025-07-05T10:00:00"
+    },
+    {
+      "id_cliente": "C0258",
+      "nombre_completo": "Carmen Ortiz Castro",
+      "contacto": {
+        "email": "carmen.ortiz258@correo.ec",
+        "telefono": "0991055196"
+      },
+      "ubicacion": {
+        "ciudad": "Píllaro",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-04-14",
+      "fecha_actualizacion": "2025-02-04T10:00:00"
+    },
+    {
+      "id_cliente": "C0274",
+      "nombre_completo": "Daniela López Chávez",
+      "contacto": {
+        "email": "daniela.lopez274@correo.ec",
+        "telefono": "0994994697"
+      },
+      "ubicacion": {
+        "ciudad": "Pelileo",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2023-09-18",
+      "fecha_actualizacion": "2023-10-17T10:00:00"
+    },
+    {
+      "id_cliente": "C0218",
+      "nombre_completo": "Verónica Ortiz Lascano",
+      "contacto": {
+        "email": "veronica.ortiz218@correo.ec",
+        "telefono": "0993561906"
+      },
+      "ubicacion": {
+        "ciudad": "Latacunga",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2025-02-01",
+      "fecha_actualizacion": "2025-11-28T10:00:00"
+    },
+    {
+      "id_cliente": "C0278",
+      "nombre_completo": "Gabriela Villacís Ortiz",
+      "contacto": {
+        "email": "gabriela.villacis278@correo.ec",
+        "telefono": "0994495186"
+      },
+      "ubicacion": {
+        "ciudad": "Riobamba",
+        "provincia": "Chimborazo"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2024-11-27",
+      "fecha_actualizacion": "2025-01-07T10:00:00"
+    },
+    {
+      "id_cliente": "C0255",
+      "nombre_completo": "Luis Chávez Núñez",
+      "contacto": {
+        "email": "luis.chavez255@correo.ec",
+        "telefono": "0988587638"
+      },
+      "ubicacion": {
+        "ciudad": "Salcedo",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2024-08-05",
+      "fecha_actualizacion": "2024-09-01T10:00:00"
+    },
+    {
+      "id_cliente": "C0295",
+      "nombre_completo": "Santiago Ortiz Jácome",
+      "contacto": {
+        "email": "santiago.ortiz295@correo.ec",
+        "telefono": "0985395116"
+      },
+      "ubicacion": {
+        "ciudad": " pelileo ",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2024-09-07",
+      "fecha_actualizacion": "2025-02-19T10:00:00"
+    },
+    {
+      "id_cliente": "C0281",
+      "nombre_completo": "Verónica Toapanta Villacís",
+      "contacto": {
+        "email": "veronica.toapanta281@correo.ec",
+        "telefono": "0996526592"
+      },
+      "ubicacion": {
+        "ciudad": "Píllaro",
+        "provincia": "Tungurahua"
+      },
+      "segmento": null,
+      "fecha_registro": "2024-06-03",
+      "fecha_actualizacion": "2024-09-17T10:00:00"
+    },
+    {
+      "id_cliente": "C0233",
+      "nombre_completo": "Luis Guamán Núñez",
+      "contacto": {
+        "email": "luis.guaman233@correo.ec",
+        "telefono": "0999018309"
+      },
+      "ubicacion": {
+        "ciudad": "Ambato",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2023-11-01",
+      "fecha_actualizacion": "2024-06-24T10:00:00"
+    },
+    {
+      "id_cliente": "C0270",
+      "nombre_completo": "Diego Villacís Yánez",
+      "contacto": {
+        "email": "diego.villacis270@correo.ec",
+        "telefono": "0982989877"
+      },
+      "ubicacion": {
+        "ciudad": "Latacunga",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-10-08",
+      "fecha_actualizacion": "2024-12-26T10:00:00"
+    },
+    {
+      "id_cliente": "C0228",
+      "nombre_completo": "Raúl Castro Pérez",
+      "contacto": {
+        "email": "raul.castro228@correo.ec",
+        "telefono": "0993802100"
+      },
+      "ubicacion": {
+        "ciudad": "Salcedo",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-08-01",
+      "fecha_actualizacion": "2024-08-16T10:00:00"
+    },
+    {
+      "id_cliente": "C0212",
+      "nombre_completo": "Fernando Castro Cáceres",
+      "contacto": {
+        "email": "fernando.castro212@correo.ec",
+        "telefono": "0984621311"
+      },
+      "ubicacion": {
+        "ciudad": "Píllaro",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-11-09",
+      "fecha_actualizacion": "2025-02-19T10:00:00"
+    },
+    {
+      "id_cliente": "C0234",
+      "nombre_completo": "Jorge Núñez Paredes",
+      "contacto": {
+        "email": "jorge.nunez234@correo.ec",
+        "telefono": "0995311191"
+      },
+      "ubicacion": {
+        "ciudad": "Latacunga",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-07-19",
+      "fecha_actualizacion": "2024-08-14T10:00:00"
+    },
+    {
+      "id_cliente": "C0284",
+      "nombre_completo": "José Cáceres López",
+      "contacto": {
+        "email": "jose.caceres284@correo.ec",
+        "telefono": "0995985166"
+      },
+      "ubicacion": {
+        "ciudad": "Latacunga",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2023-11-28",
+      "fecha_actualizacion": "2024-03-11T10:00:00"
+    },
+    {
+      "id_cliente": "C0291",
+      "nombre_completo": "Carmen Paredes Chávez",
+      "contacto": {
+        "email": "carmen.paredes291@correo.ec",
+        "telefono": "0986229157"
+      },
+      "ubicacion": {
+        "ciudad": "Salcedo",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-09-21",
+      "fecha_actualizacion": "2025-05-25T10:00:00"
+    },
+    {
+      "id_cliente": "C0227",
+      "nombre_completo": "Santiago Cáceres Toapanta",
+      "contacto": {
+        "email": "santiago.caceres227@correo.ec",
+        "telefono": "0984028586"
+      },
+      "ubicacion": {
+        "ciudad": "Pelileo",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-10-05",
+      "fecha_actualizacion": "2025-06-06T10:00:00"
+    },
+    {
+      "id_cliente": "C0279",
+      "nombre_completo": "Lucía Jácome Núñez",
+      "contacto": {
+        "email": "lucia.jacome279@correo.ec",
+        "telefono": "0990533600"
+      },
+      "ubicacion": {
+        "ciudad": "Latacunga",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2024-09-21",
+      "fecha_actualizacion": "2025-05-03T10:00:00"
+    },
+    {
+      "id_cliente": "C0290",
+      "nombre_completo": "Diego Yánez Núñez",
+      "contacto": {
+        "email": "diego.yanez290@correo.ec",
+        "telefono": "0981354443"
+      },
+      "ubicacion": {
+        "ciudad": "Riobamba",
+        "provincia": "Chimborazo"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2024-10-18",
+      "fecha_actualizacion": "2024-12-10T10:00:00"
+    },
+    {
+      "id_cliente": "C0211",
+      "nombre_completo": "Ana Pérez Toapanta",
+      "contacto": {
+        "email": "ana.perez211@correo.ec",
+        "telefono": "0981516430"
+      },
+      "ubicacion": {
+        "ciudad": "Pelileo",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2025-01-14",
+      "fecha_actualizacion": "2025-08-05T10:00:00"
+    },
+    {
+      "id_cliente": "C0224",
+      "nombre_completo": "María Chávez Núñez",
+      "contacto": {
+        "email": "maria.chavez224@correo.ec",
+        "telefono": "0996778793"
+      },
+      "ubicacion": {
+        "ciudad": "Ambato",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-02-25",
+      "fecha_actualizacion": "2024-12-11T10:00:00"
+    },
+    {
+      "id_cliente": "C0260",
+      "nombre_completo": "María Pérez Castro",
+      "contacto": {
+        "email": "maria.perez260@correo.ec",
+        "telefono": "0985564644"
+      },
+      "ubicacion": {
+        "ciudad": "Pelileo",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2024-03-01",
+      "fecha_actualizacion": "2024-12-12T10:00:00"
+    },
+    {
+      "id_cliente": "C0277",
+      "nombre_completo": "Rosa Ortiz Ortiz",
+      "contacto": {
+        "email": "rosa.ortiz277@correo.ec",
+        "telefono": "0996751944"
+      },
+      "ubicacion": {
+        "ciudad": "Pelileo",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-04-22",
+      "fecha_actualizacion": "2025-01-15T10:00:00"
+    },
+    {
+      "id_cliente": "C0288",
+      "nombre_completo": "Andrés Yánez Castro",
+      "contacto": {
+        "email": "andres.yanez288@correo.ec",
+        "telefono": "0996660286"
+      },
+      "ubicacion": {
+        "ciudad": "Ambato",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2024-02-27",
+      "fecha_actualizacion": "2024-05-28T10:00:00"
+    },
+    {
+      "id_cliente": "C0248",
+      "nombre_completo": "Carmen Mora Jácome",
+      "contacto": {
+        "email": "carmen.mora248@correo.ec",
+        "telefono": "0993268961"
+      },
+      "ubicacion": {
+        "ciudad": "Riobamba",
+        "provincia": "Chimborazo"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-01-13",
+      "fecha_actualizacion": "2024-02-27T10:00:00"
+    },
+    {
+      "id_cliente": "C0269",
+      "nombre_completo": "Pedro Freire Vargas",
+      "contacto": {
+        "email": "pedro.freire269@correo.ec",
+        "telefono": "0986904186"
+      },
+      "ubicacion": {
+        "ciudad": "Ambato",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2024-05-19",
+      "fecha_actualizacion": "2024-06-21T10:00:00"
+    },
+    {
+      "id_cliente": "C0266",
+      "nombre_completo": "Pedro Ortiz Paredes",
+      "contacto": {
+        "email": "pedro.ortiz266@correo.ec",
+        "telefono": "0986448930"
+      },
+      "ubicacion": {
+        "ciudad": "Riobamba",
+        "provincia": "Chimborazo"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2024-12-14",
+      "fecha_actualizacion": "2025-09-06T10:00:00"
+    },
+    {
+      "id_cliente": "C0231",
+      "nombre_completo": "María Lascano Chávez",
+      "contacto": {
+        "email": "maria.lascano231@correo.ec",
+        "telefono": "0997403309"
+      },
+      "ubicacion": {
+        "ciudad": "PÍLLARO",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-06-26",
+      "fecha_actualizacion": "2024-08-09T10:00:00"
+    },
+    {
+      "id_cliente": "C0298",
+      "nombre_completo": "Fernando Paredes Jácome",
+      "contacto": {
+        "email": "fernando.paredes298@correo.ec",
+        "telefono": "0988457327"
+      },
+      "ubicacion": {
+        "ciudad": "Latacunga",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2025-01-08",
+      "fecha_actualizacion": "2025-01-25T10:00:00"
+    },
+    {
+      "id_cliente": "C0179",
+      "nombre_completo": "Santiago Pérez Lascano",
+      "contacto": {
+        "email": "santiago.perez179@correo.ec",
+        "telefono": "0991875675"
+      },
+      "ubicacion": {
+        "ciudad": "Pelileo",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-09-13",
+      "fecha_actualizacion": "2026-06-07T09:30:00"
+    },
+    {
+      "id_cliente": "C0285",
+      "nombre_completo": "Luis Pérez Jácome",
+      "contacto": {
+        "email": "luis.perez285@correo.ec",
+        "telefono": "0999329261"
+      },
+      "ubicacion": {
+        "ciudad": "Ambato",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2024-07-02",
+      "fecha_actualizacion": "2025-01-18T10:00:00"
+    },
+    {
+      "id_cliente": "C0286",
+      "nombre_completo": "Lucía Chávez Villacís",
+      "contacto": {
+        "email": "lucia.chavez286@correo.ec",
+        "telefono": "0996148887"
+      },
+      "ubicacion": {
+        "ciudad": "Salcedo",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2025-01-17",
+      "fecha_actualizacion": "2025-09-23T10:00:00"
+    },
+    {
+      "id_cliente": "C0253",
+      "nombre_completo": "Verónica Sánchez Jácome",
+      "contacto": {
+        "email": "veronica.sanchez253@correo.ec",
+        "telefono": "0992241931"
+      },
+      "ubicacion": {
+        "ciudad": "Salcedo",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-07-19",
+      "fecha_actualizacion": "2025-03-16T10:00:00"
+    },
+    {
+      "id_cliente": "C0257",
+      "nombre_completo": "Ana Pérez Mora",
+      "contacto": {
+        "email": "ana.perez257@correo.ec",
+        "telefono": "0983836980"
+      },
+      "ubicacion": {
+        "ciudad": "Riobamba",
+        "provincia": "Chimborazo"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2024-10-27",
+      "fecha_actualizacion": "2025-01-10T10:00:00"
+    },
+    {
+      "id_cliente": "C0294",
+      "nombre_completo": "Gabriela Villacís Cáceres",
+      "contacto": {
+        "email": "gabriela.villacis294@correo.ec",
+        "telefono": "0981047641"
+      },
+      "ubicacion": {
+        "ciudad": "Riobamba",
+        "provincia": "Chimborazo"
+      },
+      "segmento": null,
+      "fecha_registro": "2024-05-31",
+      "fecha_actualizacion": "2024-09-25T10:00:00"
+    },
+    {
+      "id_cliente": "C0223",
+      "nombre_completo": "Raúl Villacís Yánez",
+      "contacto": {
+        "email": "raul.villacis223@correo.ec",
+        "telefono": "0993014800"
+      },
+      "ubicacion": {
+        "ciudad": "Latacunga",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-06-01",
+      "fecha_actualizacion": "2024-11-09T10:00:00"
+    },
+    {
+      "id_cliente": "C0254",
+      "nombre_completo": "Jorge Chávez Guamán",
+      "contacto": {
+        "email": "jorge.chavez254@correo.ec",
+        "telefono": "0997994478"
+      },
+      "ubicacion": {
+        "ciudad": "Píllaro",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2025-02-04",
+      "fecha_actualizacion": "2025-06-12T10:00:00"
+    },
+    {
+      "id_cliente": "C0242",
+      "nombre_completo": "Fernando Núñez Vargas",
+      "contacto": {
+        "email": "fernando.nunez242@correo.ec",
+        "telefono": "0983856819"
+      },
+      "ubicacion": {
+        "ciudad": "SALCEDO",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2024-12-22",
+      "fecha_actualizacion": "2025-03-30T10:00:00"
+    },
+    {
+      "id_cliente": "C0105",
+      "nombre_completo": "Lucía Jácome Villacís",
+      "contacto": {
+        "email": "lucia.jacome105@correo.ec",
+        "telefono": "0982410603"
+      },
+      "ubicacion": {
+        "ciudad": "Píllaro",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2024-10-17",
+      "fecha_actualizacion": "2026-06-10T09:30:00"
+    },
+    {
+      "id_cliente": "C0280",
+      "nombre_completo": "Paola Paredes Chávez",
+      "contacto": {
+        "email": "paola.paredes280@correo.ec",
+        "telefono": "0994722102"
+      },
+      "ubicacion": {
+        "ciudad": "Salcedo",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-04-29",
+      "fecha_actualizacion": "2024-09-22T10:00:00"
+    },
+    {
+      "id_cliente": "C0126",
+      "nombre_completo": "Rosa Lascano Mora",
+      "contacto": {
+        "email": "rosa.lascano126@correo.ec",
+        "telefono": "0983115230"
+      },
+      "ubicacion": {
+        "ciudad": "Latacunga",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-09-23",
+      "fecha_actualizacion": "2026-06-12T09:30:00"
+    },
+    {
+      "id_cliente": "C0267",
+      "nombre_completo": "Ana Paredes Vargas",
+      "contacto": {
+        "email": "ana.paredes267@correo.ec",
+        "telefono": "0994977519"
+      },
+      "ubicacion": {
+        "ciudad": "Salcedo",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-01-27",
+      "fecha_actualizacion": "2024-05-31T10:00:00"
+    },
+    {
+      "id_cliente": "C0215",
+      "nombre_completo": "Fernando Mora Freire",
+      "contacto": {
+        "email": "fernando.mora215@correo.ec",
+        "telefono": "0985290172"
+      },
+      "ubicacion": {
+        "ciudad": "Pelileo",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-06-08",
+      "fecha_actualizacion": "2025-01-01T10:00:00"
+    },
+    {
+      "id_cliente": "C0221",
+      "nombre_completo": "José Toapanta Guamán",
+      "contacto": {
+        "email": "jose.toapanta221@correo.ec",
+        "telefono": "0989255453"
+      },
+      "ubicacion": {
+        "ciudad": "Pelileo",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2024-08-23",
+      "fecha_actualizacion": "2025-03-27T10:00:00"
+    },
+    {
+      "id_cliente": "C0229",
+      "nombre_completo": "Fernando Castro Jácome",
+      "contacto": {
+        "email": "fernando.castro229@correo.ec",
+        "telefono": "0986407570"
+      },
+      "ubicacion": {
+        "ciudad": "Riobamba",
+        "provincia": "Chimborazo"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2025-02-11",
+      "fecha_actualizacion": "2025-09-19T10:00:00"
+    },
+    {
+      "id_cliente": "C0282",
+      "nombre_completo": "Lucía Guamán Ortiz",
+      "contacto": {
+        "email": "lucia.guaman282@correo.ec",
+        "telefono": "0994161976"
+      },
+      "ubicacion": {
+        "ciudad": "Píllaro",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2024-04-14",
+      "fecha_actualizacion": "2024-11-09T10:00:00"
+    },
+    {
+      "id_cliente": "C0202",
+      "nombre_completo": "Andrés Paredes Toapanta",
+      "contacto": {
+        "email": "andres.paredes202@correo.ec",
+        "telefono": "0998596676"
+      },
+      "ubicacion": {
+        "ciudad": "Riobamba",
+        "provincia": "Chimborazo"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2023-09-18",
+      "fecha_actualizacion": "2024-01-07T10:00:00"
+    },
+    {
+      "id_cliente": "C0207",
+      "nombre_completo": "Mateo Chávez Sánchez",
+      "contacto": {
+        "email": "mateo.chavez207@correo.ec",
+        "telefono": "0981983274"
+      },
+      "ubicacion": {
+        "ciudad": "Pelileo",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2025-01-17",
+      "fecha_actualizacion": "2025-07-15T10:00:00"
+    },
+    {
+      "id_cliente": "C0289",
+      "nombre_completo": "Fernando Castro Pérez",
+      "contacto": {
+        "email": "fernando.castro289@correo.ec",
+        "telefono": "0990922582"
+      },
+      "ubicacion": {
+        "ciudad": "Riobamba",
+        "provincia": "Chimborazo"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2024-11-01",
+      "fecha_actualizacion": "2025-06-24T10:00:00"
+    },
+    {
+      "id_cliente": "C0256",
+      "nombre_completo": "Daniela Cáceres Chávez",
+      "contacto": {
+        "email": "daniela.caceres256@correo.ec",
+        "telefono": "0996864690"
+      },
+      "ubicacion": {
+        "ciudad": "Latacunga",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-04-17",
+      "fecha_actualizacion": "2024-08-11T10:00:00"
+    },
+    {
+      "id_cliente": "C0204",
+      "nombre_completo": "María Paredes Villacís",
+      "contacto": {
+        "email": "maria.paredes204@correo.ec",
+        "telefono": "0989586813"
+      },
+      "ubicacion": {
+        "ciudad": "Pelileo",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-07-30",
+      "fecha_actualizacion": "2025-01-14T10:00:00"
+    },
+    {
+      "id_cliente": "C0246",
+      "nombre_completo": "José Jácome Pérez",
+      "contacto": {
+        "email": "jose.jacome246@correo.ec",
+        "telefono": "0989804006"
+      },
+      "ubicacion": {
+        "ciudad": "Salcedo",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2024-06-04",
+      "fecha_actualizacion": "2024-11-28T10:00:00"
+    },
+    {
+      "id_cliente": "C0163",
+      "nombre_completo": "Ana Chávez Villacís",
+      "contacto": {
+        "email": "ana.chavez163@correo.ec",
+        "telefono": "0980062361"
+      },
+      "ubicacion": {
+        "ciudad": "Píllaro",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2024-01-29",
+      "fecha_actualizacion": "2026-06-02T09:30:00"
+    },
+    {
+      "id_cliente": "C0181",
+      "nombre_completo": "Gabriela Freire Chávez",
+      "contacto": {
+        "email": "gabriela.freire181@correo.ec",
+        "telefono": "0999485769"
+      },
+      "ubicacion": {
+        "ciudad": "Latacunga",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2023-09-23",
+      "fecha_actualizacion": "2026-06-12T09:30:00"
+    },
+    {
+      "id_cliente": "C0210",
+      "nombre_completo": "Elena Jácome Núñez",
+      "contacto": {
+        "email": "elena.jacome210@correo.ec",
+        "telefono": "0990183220"
+      },
+      "ubicacion": {
+        "ciudad": " píllaro ",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-12-04",
+      "fecha_actualizacion": "2025-08-31T10:00:00"
+    },
+    {
+      "id_cliente": "C0263",
+      "nombre_completo": "Andrés Cáceres Mora",
+      "contacto": {
+        "email": "andres.caceres263@correo.ec",
+        "telefono": "0997508105"
+      },
+      "ubicacion": {
+        "ciudad": "Píllaro",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2025-01-06",
+      "fecha_actualizacion": "2025-02-11T10:00:00"
+    },
+    {
+      "id_cliente": "C0222",
+      "nombre_completo": "José Cáceres Paredes",
+      "contacto": {
+        "email": "jose.caceres222@correo.ec",
+        "telefono": "0991740951"
+      },
+      "ubicacion": {
+        "ciudad": "Riobamba",
+        "provincia": "Chimborazo"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-11-19",
+      "fecha_actualizacion": "2025-07-11T10:00:00"
+    },
+    {
+      "id_cliente": "C0225",
+      "nombre_completo": "Elena Núñez Pérez",
+      "contacto": {
+        "email": "ELENA.NUNEZ225@CORREO.EC",
+        "telefono": "0985272810"
+      },
+      "ubicacion": {
+        "ciudad": "Pelileo",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2023-09-11",
+      "fecha_actualizacion": "2024-03-27T10:00:00"
+    },
+    {
+      "id_cliente": "C0265",
+      "nombre_completo": "Elena López Vargas",
+      "contacto": {
+        "email": "elena.lopez265@correo.ec",
+        "telefono": "0991505641"
+      },
+      "ubicacion": {
+        "ciudad": "Riobamba",
+        "provincia": "Chimborazo"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-02-25",
+      "fecha_actualizacion": "2024-08-19T10:00:00"
+    },
+    {
+      "id_cliente": "C0300",
+      "nombre_completo": "Pedro Vargas Freire",
+      "contacto": {
+        "email": "pedro.vargas300@correo.ec",
+        "telefono": "0991683502"
+      },
+      "ubicacion": {
+        "ciudad": "Píllaro",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2024-03-27",
+      "fecha_actualizacion": "2024-04-29T10:00:00"
+    },
+    {
+      "id_cliente": "C0243",
+      "nombre_completo": "Verónica Toapanta Toapanta",
+      "contacto": {
+        "email": "veronica.toapanta243@correo.ec",
+        "telefono": "0987476062"
+      },
+      "ubicacion": {
+        "ciudad": "Ambato",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2024-06-17",
+      "fecha_actualizacion": "2025-01-25T10:00:00"
+    },
+    {
+      "id_cliente": "C0146",
+      "nombre_completo": "Daniela Chávez Mora",
+      "contacto": {
+        "email": "daniela.chavez146@correo.ec",
+        "telefono": "0980497733"
+      },
+      "ubicacion": {
+        "ciudad": "Riobamba",
+        "provincia": "Chimborazo"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-02-14",
+      "fecha_actualizacion": "2026-06-18T09:30:00"
+    },
+    {
+      "id_cliente": "C0190",
+      "nombre_completo": "Verónica Lascano Ortiz",
+      "contacto": {
+        "email": "veronica.lascano190@correo.ec",
+        "telefono": "0985780395"
+      },
+      "ubicacion": {
+        "ciudad": "Latacunga",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-08-13",
+      "fecha_actualizacion": "2026-06-02T09:30:00"
+    },
+    {
+      "id_cliente": "C0261",
+      "nombre_completo": "María Ortiz Paredes",
+      "contacto": {
+        "email": "maria.ortiz261@correo.ec",
+        "telefono": "0993651782"
+      },
+      "ubicacion": {
+        "ciudad": "Riobamba",
+        "provincia": "Chimborazo"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2024-03-05",
+      "fecha_actualizacion": "2024-06-20T10:00:00"
+    },
+    {
+      "id_cliente": "C0239",
+      "nombre_completo": "José Villacís Pérez",
+      "contacto": {
+        "email": "jose.villacis239@correo.ec",
+        "telefono": "0996741184"
+      },
+      "ubicacion": {
+        "ciudad": "Pelileo",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2024-03-20",
+      "fecha_actualizacion": "2024-12-18T10:00:00"
+    },
+    {
+      "id_cliente": "C0217",
+      "nombre_completo": "Verónica Sánchez Toapanta",
+      "contacto": {
+        "email": "VERONICA.SANCHEZ217@CORREO.EC",
+        "telefono": "0996504030"
+      },
+      "ubicacion": {
+        "ciudad": "Latacunga",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2023-09-17",
+      "fecha_actualizacion": "2024-05-19T10:00:00"
+    },
+    {
+      "id_cliente": "C0247",
+      "nombre_completo": "Raúl Lascano Lascano",
+      "contacto": {
+        "email": "raul.lascano247@correo.ec",
+        "telefono": "0982503578"
+      },
+      "ubicacion": {
+        "ciudad": " latacunga ",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2024-12-14",
+      "fecha_actualizacion": "2025-06-28T10:00:00"
+    },
+    {
+      "id_cliente": "C0213",
+      "nombre_completo": "Raúl Toapanta Pérez",
+      "contacto": {
+        "email": "raul.toapanta213@correo.ec",
+        "telefono": "0997474901"
+      },
+      "ubicacion": {
+        "ciudad": "Salcedo",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2023-11-05",
+      "fecha_actualizacion": "2024-03-03T10:00:00"
+    },
+    {
+      "id_cliente": "C0052",
+      "nombre_completo": "Jorge Jácome Vargas",
+      "contacto": {
+        "email": "jorge.jacome52@correo.ec",
+        "telefono": "0991494099"
+      },
+      "ubicacion": {
+        "ciudad": "Ambato",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2023-09-18",
+      "fecha_actualizacion": "2026-06-02T09:30:00"
+    },
+    {
+      "id_cliente": "C0249",
+      "nombre_completo": "María Lascano Chávez",
+      "contacto": {
+        "email": "maria.lascano249@correo.ec",
+        "telefono": "0998158534"
+      },
+      "ubicacion": {
+        "ciudad": "Salcedo",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2024-08-01",
+      "fecha_actualizacion": "2025-02-10T10:00:00"
+    },
+    {
+      "id_cliente": "C0259",
+      "nombre_completo": "Pedro Toapanta Jácome",
+      "contacto": {
+        "email": "pedro.toapanta259@correo.ec",
+        "telefono": "0990338707"
+      },
+      "ubicacion": {
+        "ciudad": "Salcedo",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2024-05-21",
+      "fecha_actualizacion": "2024-11-26T10:00:00"
+    },
+    {
+      "id_cliente": "C0297",
+      "nombre_completo": "Raúl Mora Yánez",
+      "contacto": {
+        "email": "raul.mora297@correo.ec",
+        "telefono": "0993801439"
+      },
+      "ubicacion": {
+        "ciudad": "Pelileo",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2024-01-31",
+      "fecha_actualizacion": "2024-08-04T10:00:00"
+    },
+    {
+      "id_cliente": "C0240",
+      "nombre_completo": "Verónica Guamán Lascano",
+      "contacto": {
+        "email": "veronica.guaman240@correo.ec",
+        "telefono": "0990270099"
+      },
+      "ubicacion": {
+        "ciudad": "Salcedo",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-12-24",
+      "fecha_actualizacion": "2025-02-10T10:00:00"
+    },
+    {
+      "id_cliente": "C0226",
+      "nombre_completo": "Verónica Ortiz Vargas",
+      "contacto": {
+        "email": "veronica.ortiz226@correo.ec",
+        "telefono": "0992709959"
+      },
+      "ubicacion": {
+        "ciudad": "Ambato",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2024-12-29",
+      "fecha_actualizacion": "2025-09-27T10:00:00"
+    },
+    {
+      "id_cliente": "C0201",
+      "nombre_completo": "Raúl Villacís Mora",
+      "contacto": {
+        "email": "raul.villacis201@correo.ec",
+        "telefono": "0987989364"
+      },
+      "ubicacion": {
+        "ciudad": "Ambato",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2024-03-19",
+      "fecha_actualizacion": "2024-10-05T10:00:00"
+    },
+    {
+      "id_cliente": "C0220",
+      "nombre_completo": "María López Toapanta",
+      "contacto": {
+        "email": "maria.lopez220@correo.ec",
+        "telefono": "0990536828"
+      },
+      "ubicacion": {
+        "ciudad": "Ambato",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-10-29",
+      "fecha_actualizacion": "2025-03-04T10:00:00"
+    },
+    {
+      "id_cliente": "C0236",
+      "nombre_completo": "Diego Castro Yánez",
+      "contacto": {
+        "email": "diego.castro236@correo.ec",
+        "telefono": "0980984496"
+      },
+      "ubicacion": {
+        "ciudad": "Pelileo",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2023-11-17",
+      "fecha_actualizacion": "2024-06-11T10:00:00"
+    },
+    {
+      "id_cliente": "C0106",
+      "nombre_completo": "Diego Jácome Núñez",
+      "contacto": {
+        "email": "diego.jacome106@correo.ec",
+        "telefono": "0982279694"
+      },
+      "ubicacion": {
+        "ciudad": "Riobamba",
+        "provincia": "Chimborazo"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2023-10-07",
+      "fecha_actualizacion": "2026-06-02T09:30:00"
+    },
+    {
+      "id_cliente": "C0252",
+      "nombre_completo": "Fernando Sánchez Cáceres",
+      "contacto": {
+        "email": "fernando.sanchez252@correo.ec",
+        "telefono": "0980591933"
+      },
+      "ubicacion": {
+        "ciudad": "Latacunga",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2023-10-11",
+      "fecha_actualizacion": "2023-11-08T10:00:00"
+    },
+    {
+      "id_cliente": "C0238",
+      "nombre_completo": "María Yánez Toapanta",
+      "contacto": {
+        "email": "maria.yanez238@correo.ec",
+        "telefono": "0989225175"
+      },
+      "ubicacion": {
+        "ciudad": "Píllaro",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2023-12-24",
+      "fecha_actualizacion": "2024-06-14T10:00:00"
+    },
+    {
+      "id_cliente": "C0283",
+      "nombre_completo": "Lucía Mora Jácome",
+      "contacto": {
+        "email": "lucia.mora283@correo.ec",
+        "telefono": "0983181570"
+      },
+      "ubicacion": {
+        "ciudad": "Píllaro",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2024-09-26",
+      "fecha_actualizacion": "2024-11-22T10:00:00"
+    },
+    {
+      "id_cliente": "C0232",
+      "nombre_completo": "Santiago Ortiz Toapanta",
+      "contacto": {
+        "email": "santiago.ortiz232@correo.ec",
+        "telefono": "0993662380"
+      },
+      "ubicacion": {
+        "ciudad": "Pelileo",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2024-03-11",
+      "fecha_actualizacion": "2024-08-10T10:00:00"
+    },
+    {
+      "id_cliente": "C0206",
+      "nombre_completo": "Mateo Núñez Sánchez",
+      "contacto": {
+        "email": "mateo.nunez206@correo.ec",
+        "telefono": "0991780848"
+      },
+      "ubicacion": {
+        "ciudad": "Ambato",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-02-11",
+      "fecha_actualizacion": "2024-03-11T10:00:00"
+    },
+    {
+      "id_cliente": "C0208",
+      "nombre_completo": "Pedro Sánchez Jácome",
+      "contacto": {
+        "email": "pedro.sanchez208@correo.ec",
+        "telefono": "0996296379"
+      },
+      "ubicacion": {
+        "ciudad": "Latacunga",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2024-04-02",
+      "fecha_actualizacion": "2024-08-07T10:00:00"
+    },
+    {
+      "id_cliente": "C0219",
+      "nombre_completo": "María Vargas Mora",
+      "contacto": {
+        "email": "maria.vargas219@correo.ec",
+        "telefono": "0982518239"
+      },
+      "ubicacion": {
+        "ciudad": "Píllaro",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2024-05-24",
+      "fecha_actualizacion": "2025-01-09T10:00:00"
+    },
+    {
+      "id_cliente": "C0241",
+      "nombre_completo": "Diego Ortiz Guamán",
+      "contacto": {
+        "email": "diego.ortiz241@correo.ec",
+        "telefono": "0983059627"
+      },
+      "ubicacion": {
+        "ciudad": "Latacunga",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2024-04-05",
+      "fecha_actualizacion": "2024-08-31T10:00:00"
+    },
+    {
+      "id_cliente": "C0250",
+      "nombre_completo": "Mateo Paredes Chávez",
+      "contacto": {
+        "email": "mateo.paredes250@correo.ec",
+        "telefono": "0981626885"
+      },
+      "ubicacion": {
+        "ciudad": " salcedo ",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2023-11-04",
+      "fecha_actualizacion": "2024-05-16T10:00:00"
+    },
+    {
+      "id_cliente": "C0275",
+      "nombre_completo": "Mateo Villacís López",
+      "contacto": {
+        "email": "mateo.villacis275@correo.ec",
+        "telefono": "0991497474"
+      },
+      "ubicacion": {
+        "ciudad": "Ambato",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-11-21",
+      "fecha_actualizacion": "2024-12-15T10:00:00"
+    },
+    {
+      "id_cliente": "C0214",
+      "nombre_completo": "Rosa Mora Castro",
+      "contacto": {
+        "email": "rosa.mora214@correo.ec",
+        "telefono": "0987263425"
+      },
+      "ubicacion": {
+        "ciudad": "Salcedo",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2023-11-11",
+      "fecha_actualizacion": "2024-07-31T10:00:00"
+    },
+    {
+      "id_cliente": "C0273",
+      "nombre_completo": "Fernando Vargas Sánchez",
+      "contacto": {
+        "email": "fernando.vargas273@correo.ec",
+        "telefono": "0991656595"
+      },
+      "ubicacion": {
+        "ciudad": "Pelileo",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2025-01-21",
+      "fecha_actualizacion": "2025-05-10T10:00:00"
+    },
+    {
+      "id_cliente": "C0124",
+      "nombre_completo": "Pedro Toapanta Toapanta",
+      "contacto": {
+        "email": "pedro.toapanta124@correo.ec",
+        "telefono": "0985711449"
+      },
+      "ubicacion": {
+        "ciudad": "Ambato",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2024-06-05",
+      "fecha_actualizacion": "2026-06-01T09:30:00"
+    },
+    {
+      "id_cliente": "C0205",
+      "nombre_completo": "Paola Sánchez Castro",
+      "contacto": {
+        "email": "paola.sanchez205@correo.ec",
+        "telefono": "0996376697"
+      },
+      "ubicacion": {
+        "ciudad": "Ambato",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-08-17",
+      "fecha_actualizacion": "2024-12-31T10:00:00"
+    },
+    {
+      "id_cliente": "C0296",
+      "nombre_completo": "Fernando Mora Paredes",
+      "contacto": {
+        "email": "FERNANDO.MORA296@CORREO.EC",
+        "telefono": "0983826216"
+      },
+      "ubicacion": {
+        "ciudad": "Píllaro",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Estudiante",
+      "fecha_registro": "2024-11-18",
+      "fecha_actualizacion": "2025-05-06T10:00:00"
+    },
+    {
+      "id_cliente": "C0244",
+      "nombre_completo": "Rosa Chávez Cáceres",
+      "contacto": {
+        "email": "rosa.chavez244@correo.ec",
+        "telefono": "0986891217"
+      },
+      "ubicacion": {
+        "ciudad": "Latacunga",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2024-07-01",
+      "fecha_actualizacion": "2024-12-11T10:00:00"
+    },
+    {
+      "id_cliente": "C0230",
+      "nombre_completo": "Santiago Paredes Vargas",
+      "contacto": {
+        "email": "santiago.paredes230@correo.ec",
+        "telefono": "0996852002"
+      },
+      "ubicacion": {
+        "ciudad": "Pelileo",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2025-01-06",
+      "fecha_actualizacion": "2025-04-22T10:00:00"
+    },
+    {
+      "id_cliente": "C0287",
+      "nombre_completo": "Daniela Jácome Toapanta",
+      "contacto": {
+        "email": "daniela.jacome287@correo.ec",
+        "telefono": "0982823631"
+      },
+      "ubicacion": {
+        "ciudad": "Riobamba",
+        "provincia": "Chimborazo"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-03-12",
+      "fecha_actualizacion": "2024-07-18T10:00:00"
+    },
+    {
+      "id_cliente": "C0245",
+      "nombre_completo": "Lucía Guamán Pérez",
+      "contacto": {
+        "email": "lucia.guaman245@correo.ec",
+        "telefono": "0997173829"
+      },
+      "ubicacion": {
+        "ciudad": "Pelileo",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2023-11-23",
+      "fecha_actualizacion": "2024-08-19T10:00:00"
+    },
+    {
+      "id_cliente": "C0203",
+      "nombre_completo": "Verónica Cáceres Sánchez",
+      "contacto": {
+        "email": "veronica.caceres203@correo.ec",
+        "telefono": "0994124239"
+      },
+      "ubicacion": {
+        "ciudad": "Pelileo",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2024-07-24",
+      "fecha_actualizacion": "2024-08-10T10:00:00"
+    },
+    {
+      "id_cliente": "C0268",
+      "nombre_completo": "Carmen Freire Toapanta",
+      "contacto": {
+        "email": "carmen.freire268@correo.ec",
+        "telefono": "0985332791"
+      },
+      "ubicacion": {
+        "ciudad": "Píllaro",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-07-20",
+      "fecha_actualizacion": "2024-12-27T10:00:00"
+    },
+    {
+      "id_cliente": "C0209",
+      "nombre_completo": "Lucía Lascano Ortiz",
+      "contacto": {
+        "email": "lucia.lascano209@correo.ec",
+        "telefono": "0983224478"
+      },
+      "ubicacion": {
+        "ciudad": "Pelileo",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-07-11",
+      "fecha_actualizacion": "2025-04-15T10:00:00"
+    },
+    {
+      "id_cliente": "C0276",
+      "nombre_completo": "Paola Paredes Villacís",
+      "contacto": {
+        "email": "paola.paredes276@correo.ec",
+        "telefono": "0996204665"
+      },
+      "ubicacion": {
+        "ciudad": "Salcedo",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-09-10",
+      "fecha_actualizacion": "2025-02-22T10:00:00"
+    },
+    {
+      "id_cliente": "C0292",
+      "nombre_completo": "Lucía Freire Ortiz",
+      "contacto": {
+        "email": "lucia.freire292@correo.ec",
+        "telefono": "0993157896"
+      },
+      "ubicacion": {
+        "ciudad": "Riobamba",
+        "provincia": "Chimborazo"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-10-30",
+      "fecha_actualizacion": "2025-07-13T10:00:00"
+    },
+    {
+      "id_cliente": "C0293",
+      "nombre_completo": "María Lascano Yánez",
+      "contacto": {
+        "email": "maria.lascano293@correo.ec",
+        "telefono": "0994403768"
+      },
+      "ubicacion": {
+        "ciudad": "Latacunga",
+        "provincia": "Cotopaxi"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2023-10-31",
+      "fecha_actualizacion": "2024-08-15T10:00:00"
+    },
+    {
+      "id_cliente": "C0237",
+      "nombre_completo": "Gabriela Chávez Guamán",
+      "contacto": {
+        "email": "gabriela.chavez237@correo.ec",
+        "telefono": "0986409257"
+      },
+      "ubicacion": {
+        "ciudad": "Riobamba",
+        "provincia": "Chimborazo"
+      },
+      "segmento": "Hogar",
+      "fecha_registro": "2025-02-13",
+      "fecha_actualizacion": "2025-10-09T10:00:00"
+    },
+    {
+      "id_cliente": "C0299",
+      "nombre_completo": "Carmen Castro Chávez",
+      "contacto": {
+        "email": "carmen.castro299@correo.ec",
+        "telefono": "0981570026"
+      },
+      "ubicacion": {
+        "ciudad": "Ambato",
+        "provincia": "Tungurahua"
+      },
+      "segmento": "Empresa",
+      "fecha_registro": "2024-10-26",
+      "fecha_actualizacion": "2025-06-16T10:00:00"
+    }
+  ]
+}
